@@ -1,8 +1,22 @@
-# React + Vite
+# 3D Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Home Page](/public/3d_portfolio.png)
 
-Currently, two official plugins are available:
+## Preview link : https://yousef-portfolio-three.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Description: A 3D Portfolio with cool animation and modern design
+
+## Technologies & Tools
+
+1. Javascript
+2. React Js
+3. Three Js
+4. Tailwind css
+5. vercel
+6. Vite Js
+7. framer motion
+8. tsparticles
+9. tilt
+10. typewriter-effect
+11. Email Js
+12. Maath
