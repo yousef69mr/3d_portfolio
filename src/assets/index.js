@@ -35,6 +35,7 @@ import shirtdesign from './projects/shirt_design_threejs.png'
 import threadsclone from './projects/threads_clone.png'
 import multiverse from './projects/mulltiverse_nextjs.png'
 import creditcardform from './projects/credit_card_form.png'
+import discordclone from './projects/discord_clone.png'
 
 import kubeticket from './company/kubeticket.svg'
 
@@ -52,7 +53,9 @@ import threejswhite from './tech/threejs-white.svg'
 import framermotion from './tech/framer-motion.svg'
 import nextjswhite from './tech/nextjs-white.svg'
 import preview from './eye.svg'
+
 export {
+  discordclone,
   creditcardform,
   multiverse,
   threadsclone,

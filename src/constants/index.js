@@ -44,6 +44,7 @@ import {
     typescript,
     multiverse,
     creditcardform,
+    discordclone
 } from "../assets";
 
 export const navLinks = [
@@ -212,6 +213,70 @@ const testimonials = [
 
 const projects = [
     {
+        name: "Discord clone",
+        description:
+            "A Next js Discord clone platform to keep in touch with friends in real-time communication with video chat support",
+        tags: [
+            {
+                name: "nextjs",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "typescript",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "clerk",
+                color: "yellow-text-gradient",
+            },
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "vercel",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "prisma",
+                color: "green-text-gradient",
+            },
+
+            {
+                name: "uploadthing",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "socket.io",
+                color: "green-text-gradient",
+            },
+            {
+                name: "postgresql",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "livekit",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "shadcn",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "zustand",
+                color: "green-text-gradient",
+            },
+
+        ],
+        image: discordclone,
+        source_code_link: "https://github.com/yousef69mr/discord_clone",
+        demo_link: "https://discord-clone-yousef69mr.vercel.app/"
+    },
+    {
         name: "Promptopia",
         description:
             "Promptopia is a Web-based platform open-source AI prompting tool for modern world to discover, create and share creative prompts",
@@ -253,40 +318,6 @@ const projects = [
         source_code_link: "https://github.com/yousef69mr/promptopia_nextjs.git",
         demo_link: "https://promptopia-nextjs-five.vercel.app/"
     },
-    // {
-    //     name: "Promptopia",
-    //     description:
-    //         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-    //     tags: [
-    //         {
-    //             name: "react",
-    //             color: "blue-text-gradient",
-    //         },
-    //         {
-    //             name: "mongodb",
-    //             color: "green-text-gradient",
-    //         },
-    //         {
-    //             name: "tailwind",
-    //             color: "pink-text-gradient",
-    //         },
-    //         {
-    //             name: "nextjs",
-    //             color: "blue-text-gradient",
-    //         },
-    //         {
-    //             name: "vercel",
-    //             color: "yellow-text-gradient",
-    //         },
-    //         {
-    //             name: "nextauth",
-    //             color: "orange-text-gradient",
-    //         },
-    //     ],
-    //     image: promptopia,
-    //     source_code_link: "https://github.com/yousef69mr/promptopia_nextjs.git",
-    //     demo_link: "https://promptopia-nextjs-five.vercel.app/"
-    // },
     {
         name: "Shirt Design",
         description:
@@ -369,6 +400,7 @@ const projects = [
         source_code_link: "https://github.com/yousef69mr/threads_clone",
         demo_link: "https://threads-clone-iota.vercel.app/"
     },
+
     {
         name: "Multiverse Landing Page",
         description:
