@@ -45,7 +45,8 @@ import {
     multiverse,
     creditcardform,
     discordclone,
-    fcaiTheatre
+    fcaiTheatre,
+    lmsudemyclone
 } from "../assets";
 
 export const navLinks = [
@@ -160,7 +161,7 @@ const experiences = [
         company_link: "https://kubeticket.com",
         icon: kubeticket,
         iconBg: "#383E56",
-        date: "March 2023 - August 2023",
+        date: "March 2023 - September 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Implementing all Organizer's interface pages",
@@ -270,6 +271,70 @@ const projects = [
         demo_link: "https://theatre-nextjs.vercel.app/"
     },
     {
+        name: "LMS Udeny clone",
+        description:
+            "A Next js lms platform for taking courses and share knowladge",
+        tags: [
+            {
+                name: "nextjs",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "typescript",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "clerk",
+                color: "yellow-text-gradient",
+            },
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "vercel",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "prisma",
+                color: "green-text-gradient",
+            },
+
+            {
+                name: "uploadthing",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "mongodb",
+                color: "green-text-gradient",
+            },
+            {
+                name: "react-dnd",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "i18next",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "shadcn",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "stripe",
+                color: "green-text-gradient",
+            },
+
+        ],
+        image: lmsudemyclone,
+        source_code_link: "https://github.com/yousef69mr/lms_udemy_clone",
+        demo_link: "https://lms-udemy-clone-rho.vercel.app/"
+    },
+    {
         name: "Discord clone",
         description:
             "A Next js Discord clone platform to keep in touch with friends in real-time communication with video chat support",
@@ -331,7 +396,7 @@ const projects = [
         ],
         image: discordclone,
         source_code_link: "https://github.com/yousef69mr/discord_clone",
-        demo_link: "https://discord-clone-yousef69mr.vercel.app/"
+        demo_link: "https://discord-clone-alpha-mocha.vercel.app/"
     },
     {
         name: "Promptopia",
