@@ -44,7 +44,8 @@ import {
     typescript,
     multiverse,
     creditcardform,
-    discordclone
+    discordclone,
+    fcaiTheatre
 } from "../assets";
 
 export const navLinks = [
@@ -212,6 +213,62 @@ const testimonials = [
 ];
 
 const projects = [
+    {
+        name: "FCAI Theatre Cast",
+        description:
+            "A Next js platform to display cast plays, actors and executors participated",
+        tags: [
+            {
+                name: "nextjs",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "typescript",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "next-auth",
+                color: "yellow-text-gradient",
+            },
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "vercel",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "prisma",
+                color: "green-text-gradient",
+            },
+
+            {
+                name: "uploadthing",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "mongodb",
+                color: "green-text-gradient",
+            },
+            {
+                name: "shadcn",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "zustand",
+                color: "green-text-gradient",
+            },
+
+        ],
+        image: fcaiTheatre,
+        source_code_link: "https://github.com/yousef69mr/theatre_nextjs",
+        demo_link: "https://theatre-nextjs.vercel.app/"
+    },
     {
         name: "Discord clone",
         description:

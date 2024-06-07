@@ -36,6 +36,7 @@ import threadsclone from './projects/threads_clone.png'
 import multiverse from './projects/mulltiverse_nextjs.png'
 import creditcardform from './projects/credit_card_form.png'
 import discordclone from './projects/discord_clone.png'
+import fcaiTheatre from './projects/fcai_theatre.png'
 
 import kubeticket from './company/kubeticket.svg'
 
@@ -103,5 +104,6 @@ export {
   carrent,
   jobit,
   tripguide,
-  kubeticket
+  kubeticket,
+  fcaiTheatre
 };
