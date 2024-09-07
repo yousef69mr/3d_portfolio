@@ -40,6 +40,7 @@ import fcaiTheatre from './projects/fcai_theatre.png'
 import lmsudemyclone from "./projects/lms_udemy_clone.png"
 
 import kubeticket from './company/kubeticket.svg'
+import shiptobox from './company/shipToBox.png'
 
 import vscode from './tech/vscode-icon.svg'
 import django from './tech/django.svg'
@@ -106,6 +107,7 @@ export {
   jobit,
   tripguide,
   kubeticket,
+  shiptobox,
   fcaiTheatre,
   lmsudemyclone
 };

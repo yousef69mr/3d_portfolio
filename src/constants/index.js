@@ -19,6 +19,7 @@ import {
     // figma,
     // docker,
     kubeticket,
+    shiptobox,
     // tesla,
     // carrent,
     // jobit,
@@ -156,6 +157,21 @@ const technologies = [
 
 const experiences = [
     {
+        title: "Next.js Developer",
+        company_name: "Ship To Box",
+        company_link: "https://www.shiptobox.com",
+        icon: shiptobox,
+        iconBg: "#383E56",
+        date: "September 2023 - Present",
+        points: [
+            "Developing and maintaining web applications using Next.js and other related technologies.",
+            // "Implementing all Organizer's interface pages",
+            // "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            // "Implementing responsive design and ensuring cross-browser compatibility.",
+            // "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
+    {
         title: "React.js Developer",
         company_name: "Kube Ticket",
         company_link: "https://kubeticket.com",
@@ -170,6 +186,7 @@ const experiences = [
             // "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
+
     // {
     //     title: "React Native Developer",
     //     company_name: "Tesla",
