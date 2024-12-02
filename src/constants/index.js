@@ -157,12 +157,12 @@ const technologies = [
 
 const experiences = [
     {
-        title: "Next.js Developer",
+        title: "Frontend Developer",
         company_name: "Ship To Box",
         company_link: "https://www.shiptobox.com",
         icon: shiptobox,
         iconBg: "#383E56",
-        date: "September 2023 - Present",
+        date: "September 2024 - Present",
         points: [
             "Developing and maintaining web applications using Next.js and other related technologies.",
             // "Implementing all Organizer's interface pages",
